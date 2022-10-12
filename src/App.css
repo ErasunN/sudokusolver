@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.width-75 {
+  width: 75%;
+}
+
+.width-90 {
+  width: 90%;
+}
+
+.center {
+  margin: auto;
+}
+
+.margin-y-5{
+  margin: 5px 0;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
